@@ -42,12 +42,13 @@ A count can never be negative.
 # Problem 3
 
 a. For a system of n-digit unsigned base 4 numbers (n > 1), how many numbers can be represented?
-
+4^n
 
 b. For an n-digit 2's complement binary number (n > 1), what is the number of negative integers?
-
+2 ^ (n - 1) - 1
 
 c. For an n-digit 2's complement number (n > 1), how many zeros are there?
-
+n + 1
 
 d. For an n-digit 2's complement number (n > 1), what is the difference between the most positive number and the most negative number?
+2 ^ n - 1
