@@ -52,3 +52,16 @@ n + 1
 
 d. For an n-digit 2's complement number (n > 1), what is the difference between the most positive number and the most negative number?
 2 ^ n - 1
+
+# Problem 4
+
+a. 64 + 64 = ?
+
+
+b. -127 + 30 = ?
+
+
+c. -127 - 1 = ?
+
+
+d. 38 - 40 = ?
