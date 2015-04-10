@@ -28,9 +28,13 @@ Decimal		Binary				Hexadecimal
 # Problem 2
 
 1. You would like to represent the temperature in degrees Celsius:
-
+TWO'S COMPLIMENT
+With Temperatures in celcius are more likely to be in the range `-127 - 127` than in the range `0-255`
 
 2. You would like to maximize the range (distance between most negative represented number, and most positive represented number):
-
+UNSIGNED
+`-127 - 127` > `0-255`
 
 3. You would like to represent the number of boxes a factory has shipped:
+UNSIGNED
+A count can never be negative.
