@@ -56,12 +56,24 @@ d. For an n-digit 2's complement number (n > 1), what is the difference between 
 # Problem 4
 
 a. 64 + 64 = ?
-
+ 0010 0000
++0010 0000
+=0100 0000
+CORRECT
 
 b. -127 + 30 = ?
-
+ 1111 1111
++0001 1110
+=1100 0001
+CORRECT
 
 c. -127 - 1 = ?
-
+ 1111 1111
+-0000 0001
+=1111 1110
+OVERFLOW
 
 d. 38 - 40 = ?
+ 0010 0110
+-0010 1000
+=1111 1110
