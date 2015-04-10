@@ -1,2 +1,2 @@
-# cs31c
+# cs61c
 My try a this course www-inst.eecs.berkeley.edu/~cs61c/sp15
